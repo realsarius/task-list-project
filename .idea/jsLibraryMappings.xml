@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{3aa3f614e5, @fortawesome/fontawesome-free, ed329e2a4b, jquery-3.6.0, materialize}" />
+  </component>
+</project>
